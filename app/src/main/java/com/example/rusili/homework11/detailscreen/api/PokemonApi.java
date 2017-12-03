@@ -14,4 +14,5 @@ public interface PokemonApi {
 
     @GET("pokemon/{name}")
     Call<Pokemon> getPokemon(@Path("name") String pokemonName);
+
 }

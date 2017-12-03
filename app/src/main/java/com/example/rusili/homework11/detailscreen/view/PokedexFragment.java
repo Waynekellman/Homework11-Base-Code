@@ -1,4 +1,4 @@
-package com.example.rusili.homework11.pokedexActivity.view;
+package com.example.rusili.homework11.detailscreen.view;
 
 import android.os.Bundle;
 import android.support.annotation.NonNull;
